@@ -1,0 +1,993 @@
+group,puzzle_date,difficulty_emoji,order,word
+state abbreviations,2023-08-12,🟡,1,co
+state abbreviations,2023-08-12,🟡,2,ma
+state abbreviations,2023-08-12,🟡,3,me
+state abbreviations,2023-08-12,🟡,4,pa
+musical notes,2023-08-12,🟢,1,do
+musical notes,2023-08-12,🟢,2,fa
+musical notes,2023-08-12,🟢,3,la
+musical notes,2023-08-12,🟢,4,ti
+greek letters,2023-08-12,🔵,1,mu
+greek letters,2023-08-12,🔵,2,nu
+greek letters,2023-08-12,🔵,3,pi
+greek letters,2023-08-12,🔵,4,xi
+periodic table symbols,2023-08-12,🟣,1,fe
+periodic table symbols,2023-08-12,🟣,2,he
+periodic table symbols,2023-08-12,🟣,3,na
+periodic table symbols,2023-08-12,🟣,4,ni
+theoretical physicists,2023-08-11,🟡,1,einstein
+theoretical physicists,2023-08-11,🟡,2,feynman
+theoretical physicists,2023-08-11,🟡,3,hawking
+theoretical physicists,2023-08-11,🟡,4,oppenheimer
+talent,2023-08-11,🟢,1,faculty
+talent,2023-08-11,🟢,2,flair
+talent,2023-08-11,🟢,3,genius
+talent,2023-08-11,🟢,4,gift
+australian terms,2023-08-11,🔵,1,barbie
+australian terms,2023-08-11,🔵,2,bush
+australian terms,2023-08-11,🔵,3,crikey
+australian terms,2023-08-11,🔵,4,mate
+___ point,2023-08-11,🟣,1,match
+___ point,2023-08-11,🟣,2,moot
+___ point,2023-08-11,🟣,3,selling
+___ point,2023-08-11,🟣,4,west
+horror franchises,2023-08-10,🟡,1,purge
+horror franchises,2023-08-10,🟡,2,ring
+horror franchises,2023-08-10,🟡,3,saw
+horror franchises,2023-08-10,🟡,4,scream
+sports venues,2023-08-10,🟢,1,court
+sports venues,2023-08-10,🟢,2,diamond
+sports venues,2023-08-10,🟢,3,field
+sports venues,2023-08-10,🟢,4,rink
+make happy,2023-08-10,🔵,1,charm
+make happy,2023-08-10,🔵,2,delight
+make happy,2023-08-10,🔵,3,please
+make happy,2023-08-10,🔵,4,tickle
+jewelry,2023-08-10,🟣,1,anklet
+jewelry,2023-08-10,🟣,2,bangle
+jewelry,2023-08-10,🟣,3,brooch
+jewelry,2023-08-10,🟣,4,pendant
+unspecified quantities,2023-08-09,🟡,1,few
+unspecified quantities,2023-08-09,🟡,2,handful
+unspecified quantities,2023-08-09,🟡,3,several
+unspecified quantities,2023-08-09,🟡,4,some
+celestial objects,2023-08-09,🟢,1,asteroid
+celestial objects,2023-08-09,🟢,2,comet
+celestial objects,2023-08-09,🟢,3,moon
+celestial objects,2023-08-09,🟢,4,planet
+newspapers,2023-08-09,🔵,1,globe
+newspapers,2023-08-09,🔵,2,journal
+newspapers,2023-08-09,🔵,3,post
+newspapers,2023-08-09,🔵,4,sun
+fruit homophones,2023-08-09,🟣,1,lyme
+fruit homophones,2023-08-09,🟣,2,mellon
+fruit homophones,2023-08-09,🟣,3,pair
+fruit homophones,2023-08-09,🟣,4,plumb
+arachnids,2023-08-08,🟡,1,mite
+arachnids,2023-08-08,🟡,2,scorpion
+arachnids,2023-08-08,🟡,3,spider
+arachnids,2023-08-08,🟡,4,tick
+fish,2023-08-08,🟢,1,char
+fish,2023-08-08,🟢,2,eel
+fish,2023-08-08,🟢,3,perch
+fish,2023-08-08,🟢,4,shark
+superheroes,2023-08-08,🔵,1,black widow
+superheroes,2023-08-08,🔵,2,blade
+superheroes,2023-08-08,🔵,3,flash
+superheroes,2023-08-08,🔵,4,storm
+mtv shows,2023-08-08,🟣,1,catfish
+mtv shows,2023-08-08,🟣,2,cribs
+mtv shows,2023-08-08,🟣,3,jackass
+mtv shows,2023-08-08,🟣,4,state
+movie genres,2023-08-07,🟡,1,horror
+movie genres,2023-08-07,🟡,2,musical
+movie genres,2023-08-07,🟡,3,romance
+movie genres,2023-08-07,🟡,4,western
+patterns,2023-08-07,🟢,1,houndstooth
+patterns,2023-08-07,🟢,2,paisley
+patterns,2023-08-07,🟢,3,plaid
+patterns,2023-08-07,🟢,4,stripes
+synonyms for falsehood,2023-08-07,🔵,1,fib
+synonyms for falsehood,2023-08-07,🔵,2,fiction
+synonyms for falsehood,2023-08-07,🔵,3,lie
+synonyms for falsehood,2023-08-07,🔵,4,tale
+candy pieces,2023-08-07,🟣,1,dot
+candy pieces,2023-08-07,🟣,2,goober
+candy pieces,2023-08-07,🟣,3,kiss
+candy pieces,2023-08-07,🟣,4,whopper
+classic arcade games,2023-08-06,🟡,1,asteroids
+classic arcade games,2023-08-06,🟡,2,breakout
+classic arcade games,2023-08-06,🟡,3,frogger
+classic arcade games,2023-08-06,🟡,4,pong
+dances,2023-08-06,🟢,1,hustle
+dances,2023-08-06,🟢,2,salsa
+dances,2023-08-06,🟢,3,swing
+dances,2023-08-06,🟢,4,tango
+touchscreen gestures,2023-08-06,🔵,1,pinch
+touchscreen gestures,2023-08-06,🔵,2,spread
+touchscreen gestures,2023-08-06,🔵,3,swipe
+touchscreen gestures,2023-08-06,🔵,4,tap
+rappers minus numbers,2023-08-06,🟣,1,cent
+rappers minus numbers,2023-08-06,🟣,2,chainz
+rappers minus numbers,2023-08-06,🟣,3,pac
+rappers minus numbers,2023-08-06,🟣,4,savage
+classic toys,2023-08-05,🟡,1,blocks
+classic toys,2023-08-05,🟡,2,doll
+classic toys,2023-08-05,🟡,3,top
+classic toys,2023-08-05,🟡,4,yo-yo
+words with three g's,2023-08-05,🟢,1,baggage
+words with three g's,2023-08-05,🟢,2,eggnog
+words with three g's,2023-08-05,🟢,3,giggle
+words with three g's,2023-08-05,🟢,4,leggings
+shakespeare characters,2023-08-05,🔵,1,duncan
+shakespeare characters,2023-08-05,🔵,2,juliet
+shakespeare characters,2023-08-05,🔵,3,puck
+shakespeare characters,2023-08-05,🔵,4,viola
+___ stick,2023-08-05,🟣,1,fish
+___ stick,2023-08-05,🟣,2,hockey
+___ stick,2023-08-05,🟣,3,memory
+___ stick,2023-08-05,🟣,4,selfie
+places for worship,2023-08-04,🟡,1,altar
+places for worship,2023-08-04,🟡,2,reliquary
+places for worship,2023-08-04,🟡,3,shrine
+places for worship,2023-08-04,🟡,4,temple
+cartoon cats,2023-08-04,🟢,1,felix
+cartoon cats,2023-08-04,🟢,2,garfield
+cartoon cats,2023-08-04,🟢,3,sylvester
+cartoon cats,2023-08-04,🟢,4,tom
+presidential first names,2023-08-04,🔵,1,calvin
+presidential first names,2023-08-04,🔵,2,chester
+presidential first names,2023-08-04,🔵,3,grover
+presidential first names,2023-08-04,🔵,4,harry
+___ road,2023-08-04,🟣,1,abbey
+___ road,2023-08-04,🟣,2,high
+___ road,2023-08-04,🟣,3,rocky
+___ road,2023-08-04,🟣,4,silk
+animal group names,2023-08-03,🟡,1,colony
+animal group names,2023-08-03,🟡,2,herd
+animal group names,2023-08-03,🟡,3,pride
+animal group names,2023-08-03,🟡,4,swarm
+stoned,2023-08-03,🟢,1,baked
+stoned,2023-08-03,🟢,2,blazed
+stoned,2023-08-03,🟢,3,high
+stoned,2023-08-03,🟢,4,lit
+ap classes,2023-08-03,🔵,1,bio
+ap classes,2023-08-03,🔵,2,chem
+ap classes,2023-08-03,🔵,3,gov
+ap classes,2023-08-03,🔵,4,stats
+taxonomy ranks,2023-08-03,🟣,1,class
+taxonomy ranks,2023-08-03,🟣,2,domain
+taxonomy ranks,2023-08-03,🟣,3,family
+taxonomy ranks,2023-08-03,🟣,4,order
+computer equipment,2023-08-02,🟡,1,keyboard
+computer equipment,2023-08-02,🟡,2,monitor
+computer equipment,2023-08-02,🟡,3,mouse
+computer equipment,2023-08-02,🟡,4,speaker
+rodents,2023-08-02,🟢,1,gerbil
+rodents,2023-08-02,🟢,2,hamster
+rodents,2023-08-02,🟢,3,rat
+rodents,2023-08-02,🟢,4,vole
+musical instruments,2023-08-02,🔵,1,harp
+musical instruments,2023-08-02,🔵,2,horn
+musical instruments,2023-08-02,🔵,3,organ
+musical instruments,2023-08-02,🔵,4,triangle
+synonyms for complain,2023-08-02,🟣,1,carp
+synonyms for complain,2023-08-02,🟣,2,gripe
+synonyms for complain,2023-08-02,🟣,3,grouse
+synonyms for complain,2023-08-02,🟣,4,moan
+long sandwiches,2023-08-01,🟡,1,hero
+long sandwiches,2023-08-01,🟡,2,hoagie
+long sandwiches,2023-08-01,🟡,3,grinder
+long sandwiches,2023-08-01,🟡,4,sub
+dating apps,2023-08-01,🟢,1,bumble
+dating apps,2023-08-01,🟢,2,hinge
+dating apps,2023-08-01,🟢,3,match
+dating apps,2023-08-01,🟢,4,tinder
+vampire movies,2023-08-01,🔵,1,blade
+vampire movies,2023-08-01,🔵,2,lost boys
+vampire movies,2023-08-01,🔵,3,near dark
+vampire movies,2023-08-01,🔵,4,twilight
+adams,2023-08-01,🟣,1,ant
+adams,2023-08-01,🟣,2,driver
+adams,2023-08-01,🟣,3,scott
+adams,2023-08-01,🟣,4,west
+units of length,2023-07-31,🟡,1,foot
+units of length,2023-07-31,🟡,2,inch
+units of length,2023-07-31,🟡,3,mile
+units of length,2023-07-31,🟡,4,yard
+types of paint,2023-07-31,🟢,1,acrylic
+types of paint,2023-07-31,🟢,2,oil
+types of paint,2023-07-31,🟢,3,tempera
+types of paint,2023-07-31,🟢,4,watercolor
+deep-fried food,2023-07-31,🔵,1,falafel
+deep-fried food,2023-07-31,🔵,2,katsu
+deep-fried food,2023-07-31,🔵,3,samosa
+deep-fried food,2023-07-31,🔵,4,schnitzel
+starts of u.s. coins,2023-07-31,🟣,1,dim
+starts of u.s. coins,2023-07-31,🟣,2,nick
+starts of u.s. coins,2023-07-31,🟣,3,pen
+starts of u.s. coins,2023-07-31,🟣,4,quart
+relatives,2023-07-30,🟡,1,aunt
+relatives,2023-07-30,🟡,2,cousin
+relatives,2023-07-30,🟡,3,mother
+relatives,2023-07-30,🟡,4,nephew
+synonyms for offbeat,2023-07-30,🟢,1,daffy
+synonyms for offbeat,2023-07-30,🟢,2,kooky
+synonyms for offbeat,2023-07-30,🟢,3,quirky
+synonyms for offbeat,2023-07-30,🟢,4,wacky
+disney ducks,2023-07-30,🔵,1,daisy
+disney ducks,2023-07-30,🔵,2,dewey
+disney ducks,2023-07-30,🔵,3,donald
+disney ducks,2023-07-30,🔵,4,scrooge
+___ clock,2023-07-30,🟣,1,alarm
+___ clock,2023-07-30,🟣,2,biological
+___ clock,2023-07-30,🟣,3,cuckoo
+___ clock,2023-07-30,🟣,4,grandfather
+fabrics,2023-07-29,🟡,1,corduroy
+fabrics,2023-07-29,🟡,2,denim
+fabrics,2023-07-29,🟡,3,linen
+fabrics,2023-07-29,🟡,4,tweed
+apparitions,2023-07-29,🟢,1,ghost
+apparitions,2023-07-29,🟢,2,phantom
+apparitions,2023-07-29,🟢,3,specter
+apparitions,2023-07-29,🟢,4,spirit
+synonyms for bother,2023-07-29,🔵,1,needle
+synonyms for bother,2023-07-29,🔵,2,poke
+synonyms for bother,2023-07-29,🔵,3,rib
+synonyms for bother,2023-07-29,🔵,4,tease
+disney characters,2023-07-29,🟣,1,beast
+disney characters,2023-07-29,🟣,2,genie
+disney characters,2023-07-29,🟣,3,scar
+disney characters,2023-07-29,🟣,4,stitch
+biomes,2023-07-28,🟡,1,desert
+biomes,2023-07-28,🟡,2,forest
+biomes,2023-07-28,🟡,3,grassland
+biomes,2023-07-28,🟡,4,tundra
+lizards,2023-07-28,🟢,1,chameleon
+lizards,2023-07-28,🟢,2,gecko
+lizards,2023-07-28,🟢,3,iguana
+lizards,2023-07-28,🟢,4,monitor
+yoga poses,2023-07-28,🔵,1,cobra
+yoga poses,2023-07-28,🔵,2,lotus
+yoga poses,2023-07-28,🔵,3,tree
+yoga poses,2023-07-28,🔵,4,warrior
+dances when doubled,2023-07-28,🟣,1,can
+dances when doubled,2023-07-28,🟣,2,cha
+dances when doubled,2023-07-28,🟣,3,go
+dances when doubled,2023-07-28,🟣,4,nae
+movie title cities,2023-07-27,🟡,1,chicago
+movie title cities,2023-07-27,🟡,2,munich
+movie title cities,2023-07-27,🟡,3,philadelphia
+movie title cities,2023-07-27,🟡,4,rio
+fashion magazines,2023-07-27,🟢,1,allure
+fashion magazines,2023-07-27,🟢,2,elle
+fashion magazines,2023-07-27,🟢,3,glamour
+fashion magazines,2023-07-27,🟢,4,w
+storms,2023-07-27,🔵,1,blizzard
+storms,2023-07-27,🔵,2,cyclone
+storms,2023-07-27,🔵,3,squall
+storms,2023-07-27,🔵,4,tornado
+cocktails,2023-07-27,🟣,1,cosmopolitan
+cocktails,2023-07-27,🟣,2,hurricane
+cocktails,2023-07-27,🟣,3,manhattan
+cocktails,2023-07-27,🟣,4,screwdriver
+modes of transportation,2023-07-26,🟡,1,boat
+modes of transportation,2023-07-26,🟡,2,car
+modes of transportation,2023-07-26,🟡,3,plane
+modes of transportation,2023-07-26,🟡,4,train
+nba players,2023-07-26,🟢,1,king
+nba players,2023-07-26,🟢,2,magic
+nba players,2023-07-26,🟢,3,sun
+nba players,2023-07-26,🟢,4,thunder
+fast food chains,2023-07-26,🔵,1,checkers
+fast food chains,2023-07-26,🔵,2,outback
+fast food chains,2023-07-26,🔵,3,sonic
+fast food chains,2023-07-26,🔵,4,subway
+band names minus colors,2023-07-26,🟣,1,day
+band names minus colors,2023-07-26,🟣,2,floyd
+band names minus colors,2023-07-26,🟣,3,sabbath
+band names minus colors,2023-07-26,🟣,4,stripes
+states of matter,2023-07-25,🟡,1,gas
+states of matter,2023-07-25,🟡,2,liquid
+states of matter,2023-07-25,🟡,3,plasma
+states of matter,2023-07-25,🟡,4,solid
+edit menu commands,2023-07-25,🟢,1,copy
+edit menu commands,2023-07-25,🟢,2,cut
+edit menu commands,2023-07-25,🟢,3,paste
+edit menu commands,2023-07-25,🟢,4,undo
+defeat badly,2023-07-25,🔵,1,crush
+defeat badly,2023-07-25,🔵,2,rout
+defeat badly,2023-07-25,🔵,3,shellac
+defeat badly,2023-07-25,🔵,4,trash
+anagrams,2023-07-25,🟣,1,least
+anagrams,2023-07-25,🟣,2,slate
+anagrams,2023-07-25,🟣,3,stale
+anagrams,2023-07-25,🟣,4,tesla
+synonyms for angry,2023-07-24,🟡,1,furious
+synonyms for angry,2023-07-24,🟡,2,incensed
+synonyms for angry,2023-07-24,🟡,3,irate
+synonyms for angry,2023-07-24,🟡,4,livid
+things that are yellow,2023-07-24,🟢,1,banana
+things that are yellow,2023-07-24,🟢,2,canary
+things that are yellow,2023-07-24,🟢,3,school bus
+things that are yellow,2023-07-24,🟢,4,sunflower
+marine birds,2023-07-24,🔵,1,booby
+marine birds,2023-07-24,🔵,2,gull
+marine birds,2023-07-24,🔵,3,pelican
+marine birds,2023-07-24,🔵,4,puffin
+___ boys,2023-07-24,🟣,1,beach
+___ boys,2023-07-24,🟣,2,beastie
+___ boys,2023-07-24,🟣,3,hardy
+___ boys,2023-07-24,🟣,4,lost
+scuba gear,2023-07-23,🟡,1,fins
+scuba gear,2023-07-23,🟡,2,mask
+scuba gear,2023-07-23,🟡,3,snorkel
+scuba gear,2023-07-23,🟡,4,tank
+punctuation marks,2023-07-23,🟢,1,colon
+punctuation marks,2023-07-23,🟢,2,comma
+punctuation marks,2023-07-23,🟢,3,hyphen
+punctuation marks,2023-07-23,🟢,4,period
+run quickly,2023-07-23,🔵,1,bolt
+run quickly,2023-07-23,🔵,2,dash
+run quickly,2023-07-23,🔵,3,race
+run quickly,2023-07-23,🔵,4,sprint
+___ cat,2023-07-23,🟣,1,doja
+___ cat,2023-07-23,🟣,2,fat
+___ cat,2023-07-23,🟣,3,house
+___ cat,2023-07-23,🟣,4,jungle
+bottled water brands,2023-07-22,🟡,1,dasani
+bottled water brands,2023-07-22,🟡,2,evian
+bottled water brands,2023-07-22,🟡,3,fiji
+bottled water brands,2023-07-22,🟡,4,voss
+slang for coffee,2023-07-22,🟢,1,brew
+slang for coffee,2023-07-22,🟢,2,java
+slang for coffee,2023-07-22,🟢,3,joe
+slang for coffee,2023-07-22,🟢,4,mud
+island countries,2023-07-22,🔵,1,cuba
+island countries,2023-07-22,🔵,2,japan
+island countries,2023-07-22,🔵,3,malta
+island countries,2023-07-22,🔵,4,palau
+cereal mascots,2023-07-22,🟣,1,lucky
+cereal mascots,2023-07-22,🟣,2,pop
+cereal mascots,2023-07-22,🟣,3,sam
+cereal mascots,2023-07-22,🟣,4,tony
+woodwinds,2023-07-21,🟡,1,bassoon
+woodwinds,2023-07-21,🟡,2,clarinet
+woodwinds,2023-07-21,🟡,3,flute
+woodwinds,2023-07-21,🟡,4,oboe
+coverings,2023-07-21,🟢,1,cap
+coverings,2023-07-21,🟢,2,cover
+coverings,2023-07-21,🟢,3,lid
+coverings,2023-07-21,🟢,4,top
+sunglasses,2023-07-21,🔵,1,aviator
+sunglasses,2023-07-21,🔵,2,cat eye
+sunglasses,2023-07-21,🔵,3,wayfarer
+sunglasses,2023-07-21,🔵,4,wraparound
+seals,2023-07-21,🟣,1,harbor
+seals,2023-07-21,🟣,2,harp
+seals,2023-07-21,🟣,3,hooded
+seals,2023-07-21,🟣,4,monk
+timekeeping devices,2023-07-20,🟡,1,clock
+timekeeping devices,2023-07-20,🟡,2,hourglass
+timekeeping devices,2023-07-20,🟡,3,sundial
+timekeeping devices,2023-07-20,🟡,4,watch
+hairstyles,2023-07-20,🟢,1,bob
+hairstyles,2023-07-20,🟢,2,crop
+hairstyles,2023-07-20,🟢,3,pixie
+hairstyles,2023-07-20,🟢,4,shag
+units of measure,2023-07-20,🔵,1,hertz
+units of measure,2023-07-20,🔵,2,mole
+units of measure,2023-07-20,🔵,3,newton
+units of measure,2023-07-20,🔵,4,second
+dr. ___,2023-07-20,🟣,1,evil
+dr. ___,2023-07-20,🟣,2,j
+dr. ___,2023-07-20,🟣,3,no
+dr. ___,2023-07-20,🟣,4,pepper
+trees,2023-07-19,🟡,1,ash
+trees,2023-07-19,🟡,2,cedar
+trees,2023-07-19,🟡,3,maple
+trees,2023-07-19,🟡,4,pine
+land formations,2023-07-19,🟢,1,hill
+land formations,2023-07-19,🟢,2,mountain
+land formations,2023-07-19,🟢,3,plateau
+land formations,2023-07-19,🟢,4,valley
+bagel flavors,2023-07-19,🔵,1,everything
+bagel flavors,2023-07-19,🔵,2,onion
+bagel flavors,2023-07-19,🔵,3,plain
+bagel flavors,2023-07-19,🔵,4,poppy
+streets on screen,2023-07-19,🟣,1,elm
+streets on screen,2023-07-19,🟣,2,fear
+streets on screen,2023-07-19,🟣,3,jump
+streets on screen,2023-07-19,🟣,4,sesame
+marine mammals,2023-07-18,🟡,1,dolphin
+marine mammals,2023-07-18,🟡,2,manatee
+marine mammals,2023-07-18,🟡,3,otter
+marine mammals,2023-07-18,🟡,4,seal
+bike parts,2023-07-18,🟢,1,brake
+bike parts,2023-07-18,🟢,2,chain
+bike parts,2023-07-18,🟢,3,saddle
+bike parts,2023-07-18,🟢,4,spoke
+synonyms for sell,2023-07-18,🔵,1,hawk
+synonyms for sell,2023-07-18,🔵,2,move
+synonyms for sell,2023-07-18,🔵,3,peddle
+synonyms for sell,2023-07-18,🔵,4,vend
+"countries when ""a"" is added",2023-07-18,🟣,1,chin
+"countries when ""a"" is added",2023-07-18,🟣,2,cub
+"countries when ""a"" is added",2023-07-18,🟣,3,malt
+"countries when ""a"" is added",2023-07-18,🟣,4,tong
+marsupials,2023-07-17,🟡,1,kangaroo
+marsupials,2023-07-17,🟡,2,koala
+marsupials,2023-07-17,🟡,3,wallaby
+marsupials,2023-07-17,🟡,4,wombat
+chocolate bars,2023-07-17,🟢,1,chunky
+chocolate bars,2023-07-17,🟢,2,crunch
+chocolate bars,2023-07-17,🟢,3,mars
+chocolate bars,2023-07-17,🟢,4,mounds
+slang for money,2023-07-17,🔵,1,cheddar
+slang for money,2023-07-17,🔵,2,dough
+slang for money,2023-07-17,🔵,3,paper
+slang for money,2023-07-17,🔵,4,stacks
+naked ___,2023-07-17,🟣,1,eye
+naked ___,2023-07-17,🟣,2,gun
+naked ___,2023-07-17,🟣,3,mole rat
+naked ___,2023-07-17,🟣,4,truth
+u.s. coins,2023-07-16,🟡,1,dime
+u.s. coins,2023-07-16,🟡,2,nickel
+u.s. coins,2023-07-16,🟡,3,penny
+u.s. coins,2023-07-16,🟡,4,quarter
+metal elements,2023-07-16,🟢,1,iron
+metal elements,2023-07-16,🟢,2,lead
+metal elements,2023-07-16,🟢,3,tin
+metal elements,2023-07-16,🟢,4,zinc
+lucky charms marshmallows,2023-07-16,🔵,1,clover
+lucky charms marshmallows,2023-07-16,🔵,2,horseshoe
+lucky charms marshmallows,2023-07-16,🔵,3,moon
+lucky charms marshmallows,2023-07-16,🔵,4,rainbow
+__ and ___,2023-07-16,🟣,1,again
+__ and ___,2023-07-16,🟣,2,half
+__ and ___,2023-07-16,🟣,3,neck
+__ and ___,2023-07-16,🟣,4,so
+pleasant smells,2023-07-15,🟡,1,aroma
+pleasant smells,2023-07-15,🟡,2,bouquet
+pleasant smells,2023-07-15,🟡,3,fragrance
+pleasant smells,2023-07-15,🟡,4,scent
+music genres,2023-07-15,🟢,1,blues
+music genres,2023-07-15,🟢,2,country
+music genres,2023-07-15,🟢,3,funk
+music genres,2023-07-15,🟢,4,soul
+"rock paper, scissors",2023-07-15,🔵,1,paper
+"rock paper, scissors",2023-07-15,🔵,2,rock
+"rock paper, scissors",2023-07-15,🔵,3,scissors
+"rock paper, scissors",2023-07-15,🔵,4,shoot
+male animals,2023-07-15,🟣,1,boar
+male animals,2023-07-15,🟣,2,buck
+male animals,2023-07-15,🟣,3,bull
+male animals,2023-07-15,🟣,4,jack
+boats,2023-07-14,🟡,1,ferry
+boats,2023-07-14,🟡,2,junk
+boats,2023-07-14,🟡,3,tug
+boats,2023-07-14,🟡,4,yacht
+sandwiches,2023-07-14,🟢,1,club
+sandwiches,2023-07-14,🟢,2,cuban
+sandwiches,2023-07-14,🟢,3,melt
+sandwiches,2023-07-14,🟢,4,sub
+cuts of beef,2023-07-14,🔵,1,flank
+cuts of beef,2023-07-14,🔵,2,loin
+cuts of beef,2023-07-14,🔵,3,round
+cuts of beef,2023-07-14,🔵,4,shank
+nicknames that are verbs,2023-07-14,🟣,1,chuck
+nicknames that are verbs,2023-07-14,🟣,2,josh
+nicknames that are verbs,2023-07-14,🟣,3,rob
+nicknames that are verbs,2023-07-14,🟣,4,sue
+shoe parts,2023-07-13,🟡,1,heel
+shoe parts,2023-07-13,🟡,2,lace
+shoe parts,2023-07-13,🟡,3,sole
+shoe parts,2023-07-13,🟡,4,tongue
+board games,2023-07-13,🟢,1,clue
+board games,2023-07-13,🟢,2,risk
+board games,2023-07-13,🟢,3,sorry
+board games,2023-07-13,🟢,4,trouble
+fictional spies,2023-07-13,🔵,1,bond
+fictional spies,2023-07-13,🔵,2,hunt
+fictional spies,2023-07-13,🔵,3,ryan
+fictional spies,2023-07-13,🔵,4,smart
+rubber ___,2023-07-13,🟣,1,band
+rubber ___,2023-07-13,🟣,2,cement
+rubber ___,2023-07-13,🟣,3,duckie
+rubber ___,2023-07-13,🟣,4,soul
+vegetables that are also fruits,2023-07-12,🟡,1,cucumber
+vegetables that are also fruits,2023-07-12,🟡,2,eggplant
+vegetables that are also fruits,2023-07-12,🟡,3,pepper
+vegetables that are also fruits,2023-07-12,🟡,4,tomato
+3-d shapes,2023-07-12,🟢,1,cone
+3-d shapes,2023-07-12,🟢,2,cube
+3-d shapes,2023-07-12,🟢,3,pyramid
+3-d shapes,2023-07-12,🟢,4,sphere
+"words with ""i""",2023-07-12,🔵,1,mac
+"words with ""i""",2023-07-12,🔵,2,pad
+"words with ""i""",2023-07-12,🔵,3,phone
+"words with ""i""",2023-07-12,🔵,4,pod
+words with two pronunciations,2023-07-12,🟣,1,job
+words with two pronunciations,2023-07-12,🟣,2,lima
+words with two pronunciations,2023-07-12,🟣,3,mobile
+words with two pronunciations,2023-07-12,🟣,4,polish
+nfl players,2023-07-11,🟡,1,bronco
+nfl players,2023-07-11,🟡,2,cowboy
+nfl players,2023-07-11,🟡,3,packer
+nfl players,2023-07-11,🟡,4,raven
+pasta shapes,2023-07-11,🟢,1,bowtie
+pasta shapes,2023-07-11,🟢,2,elbow
+pasta shapes,2023-07-11,🟢,3,shell
+pasta shapes,2023-07-11,🟢,4,spiral
+joints,2023-07-11,🔵,1,hip
+joints,2023-07-11,🔵,2,knee
+joints,2023-07-11,🔵,3,shoulder
+joints,2023-07-11,🔵,4,wrist
+"movies with ""!""",2023-07-11,🟣,1,airplane
+"movies with ""!""",2023-07-11,🟣,2,mother
+"movies with ""!""",2023-07-11,🟣,3,oklahoma
+"movies with ""!""",2023-07-11,🟣,4,them
+winged insects,2023-07-10,🟡,1,fly
+winged insects,2023-07-10,🟡,2,gnat
+winged insects,2023-07-10,🟡,3,moth
+winged insects,2023-07-10,🟡,4,wasp
+arithmetic operations,2023-07-10,🟢,1,add
+arithmetic operations,2023-07-10,🟢,2,divide
+arithmetic operations,2023-07-10,🟢,3,multiply
+arithmetic operations,2023-07-10,🟢,4,subtract
+fish,2023-07-10,🔵,1,tang
+fish,2023-07-10,🔵,2,tetra
+fish,2023-07-10,🔵,3,skate
+fish,2023-07-10,🔵,4,sole
+___ cat,2023-07-10,🟣,1,alley
+___ cat,2023-07-10,🟣,2,cool
+___ cat,2023-07-10,🟣,3,copy
+___ cat,2023-07-10,🟣,4,lap
+seven dwarfs,2023-07-09,🟡,1,bashful
+seven dwarfs,2023-07-09,🟡,2,doc
+seven dwarfs,2023-07-09,🟡,3,grumpy
+seven dwarfs,2023-07-09,🟡,4,happy
+file extensions,2023-07-09,🟢,1,gif
+file extensions,2023-07-09,🟢,2,pdf
+file extensions,2023-07-09,🟢,3,tiff
+file extensions,2023-07-09,🟢,4,zip
+flightless birds,2023-07-09,🔵,1,emu
+flightless birds,2023-07-09,🔵,2,kiwi
+flightless birds,2023-07-09,🔵,3,ostrich
+flightless birds,2023-07-09,🔵,4,penguin
+tropical fruits,2023-07-09,🟣,1,banana
+tropical fruits,2023-07-09,🟣,2,coconut
+tropical fruits,2023-07-09,🟣,3,mango
+tropical fruits,2023-07-09,🟣,4,pineapple
+hats,2023-07-08,🟡,1,beret
+hats,2023-07-08,🟡,2,bowler
+hats,2023-07-08,🟡,3,fedora
+hats,2023-07-08,🟡,4,fez
+organs,2023-07-08,🟢,1,heart
+organs,2023-07-08,🟢,2,kidney
+organs,2023-07-08,🟢,3,liver
+organs,2023-07-08,🟢,4,lung
+parts of a book,2023-07-08,🔵,1,cover
+parts of a book,2023-07-08,🔵,2,jacket
+parts of a book,2023-07-08,🔵,3,page
+parts of a book,2023-07-08,🔵,4,spine
+jack ___,2023-07-08,🟣,1,ass
+jack ___,2023-07-08,🟣,2,knife
+jack ___,2023-07-08,🟣,3,pot
+jack ___,2023-07-08,🟣,4,rabbit
+european countries,2023-07-07,🟡,1,denmark
+european countries,2023-07-07,🟡,2,greece
+european countries,2023-07-07,🟡,3,poland
+european countries,2023-07-07,🟡,4,portugal
+synonyms for imitate,2023-07-07,🟢,1,copy
+synonyms for imitate,2023-07-07,🟢,2,echo
+synonyms for imitate,2023-07-07,🟢,3,mimic
+synonyms for imitate,2023-07-07,🟢,4,parrot
+toms,2023-07-07,🔵,1,cruise
+toms,2023-07-07,🔵,2,holland
+toms,2023-07-07,🔵,3,petty
+toms,2023-07-07,🔵,4,waits
+words spelled with roman numerals,2023-07-07,🟣,1,dill
+words spelled with roman numerals,2023-07-07,🟣,2,livid
+words spelled with roman numerals,2023-07-07,🟣,3,mild
+words spelled with roman numerals,2023-07-07,🟣,4,mix
+desserts,2023-07-06,🟡,1,cheesecake
+desserts,2023-07-06,🟡,2,flan
+desserts,2023-07-06,🟡,3,mousse
+desserts,2023-07-06,🟡,4,tiramisu
+mild oaths,2023-07-06,🟢,1,darn
+mild oaths,2023-07-06,🟢,2,fudge
+mild oaths,2023-07-06,🟢,3,heck
+mild oaths,2023-07-06,🟢,4,shoot
+animals with tusks,2023-07-06,🔵,1,elephant
+animals with tusks,2023-07-06,🔵,2,hippo
+animals with tusks,2023-07-06,🔵,3,narwhal
+animals with tusks,2023-07-06,🔵,4,warthog
+mustaches,2023-07-06,🟣,1,handlebar
+mustaches,2023-07-06,🟣,2,horseshoe
+mustaches,2023-07-06,🟣,3,pencil
+mustaches,2023-07-06,🟣,4,walrus
+candy bars,2023-07-05,🟡,1,bounty
+candy bars,2023-07-05,🟡,2,crunch
+candy bars,2023-07-05,🟡,3,heath
+candy bars,2023-07-05,🟡,4,milky way
+video game consoles,2023-07-05,🟢,1,dreamcast
+video game consoles,2023-07-05,🟢,2,genesis
+video game consoles,2023-07-05,🟢,3,switch
+video game consoles,2023-07-05,🟢,4,wii
+ear parts,2023-07-05,🔵,1,anvil
+ear parts,2023-07-05,🔵,2,cochlea
+ear parts,2023-07-05,🔵,3,hammer
+ear parts,2023-07-05,🔵,4,stirrup
+band names minus numbers,2023-07-05,🟣,1,blink
+band names minus numbers,2023-07-05,🟣,2,maroon
+band names minus numbers,2023-07-05,🟣,3,sum
+band names minus numbers,2023-07-05,🟣,4,u
+60s band members,2023-07-04,🟡,1,beach boy
+60s band members,2023-07-04,🟡,2,beatle
+60s band members,2023-07-04,🟡,3,byrd
+60s band members,2023-07-04,🟡,4,monkee
+dance fads,2023-07-04,🟢,1,dougie
+dance fads,2023-07-04,🟢,2,macarena
+dance fads,2023-07-04,🟢,3,mashed potato
+dance fads,2023-07-04,🟢,4,twist
+magazines,2023-07-04,🔵,1,fortune
+magazines,2023-07-04,🔵,2,rolling stone
+magazines,2023-07-04,🔵,3,vogue
+magazines,2023-07-04,🔵,4,wired
+things with links,2023-07-04,🟣,1,chain
+things with links,2023-07-04,🟣,2,golf course
+things with links,2023-07-04,🟣,3,sausage
+things with links,2023-07-04,🟣,4,website
+dog breeds,2023-07-03,🟡,1,boxer
+dog breeds,2023-07-03,🟡,2,dalmatian
+dog breeds,2023-07-03,🟡,3,husky
+dog breeds,2023-07-03,🟡,4,poodle
+animal noses,2023-07-03,🟢,1,beak
+animal noses,2023-07-03,🟢,2,muzzle
+animal noses,2023-07-03,🟢,3,snout
+animal noses,2023-07-03,🟢,4,trunk
+traffic signs,2023-07-03,🔵,1,detour
+traffic signs,2023-07-03,🔵,2,slow
+traffic signs,2023-07-03,🔵,3,stop
+traffic signs,2023-07-03,🔵,4,yield
+sound ___,2023-07-03,🟣,1,asleep
+sound ___,2023-07-03,🟣,2,barrier
+sound ___,2023-07-03,🟣,3,bite
+sound ___,2023-07-03,🟣,4,wave
+music genres,2023-07-02,🟡,1,jazz
+music genres,2023-07-02,🟡,2,pop
+music genres,2023-07-02,🟡,3,punk
+music genres,2023-07-02,🟡,4,rap
+web browsers,2023-07-02,🟢,1,chrome
+web browsers,2023-07-02,🟢,2,edge
+web browsers,2023-07-02,🟢,3,opera
+web browsers,2023-07-02,🟢,4,safari
+little women,2023-07-02,🔵,1,amy
+little women,2023-07-02,🔵,2,beth
+little women,2023-07-02,🔵,3,jo
+little women,2023-07-02,🔵,4,meg
+lil __ rappers,2023-07-02,🟣,1,baby
+lil __ rappers,2023-07-02,🟣,2,jon
+lil __ rappers,2023-07-02,🟣,3,kim
+lil __ rappers,2023-07-02,🟣,4,wayne
+grains,2023-07-01,🟡,1,barley
+grains,2023-07-01,🟡,2,oat
+grains,2023-07-01,🟡,3,rye
+grains,2023-07-01,🟡,4,spelt
+royal titles,2023-07-01,🟢,1,baron
+royal titles,2023-07-01,🟢,2,earl
+royal titles,2023-07-01,🟢,3,king
+royal titles,2023-07-01,🟢,4,prince
+universities,2023-07-01,🔵,1,brown
+universities,2023-07-01,🔵,2,duke
+universities,2023-07-01,🔵,3,howard
+universities,2023-07-01,🔵,4,rice
+best director oscar winners,2023-07-01,🟣,1,bong
+best director oscar winners,2023-07-01,🟣,2,ford
+best director oscar winners,2023-07-01,🟣,3,lee
+best director oscar winners,2023-07-01,🟣,4,stone
+off-white shades,2023-06-30,🟡,1,cream
+off-white shades,2023-06-30,🟡,2,eggshell
+off-white shades,2023-06-30,🟡,3,ivory
+off-white shades,2023-06-30,🟡,4,vanilla
+anti-vampire,2023-06-30,🟢,1,crucifix
+anti-vampire,2023-06-30,🟢,2,garlic
+anti-vampire,2023-06-30,🟢,3,mirror
+anti-vampire,2023-06-30,🟢,4,stake
+kinds of meat,2023-06-30,🔵,1,beef
+kinds of meat,2023-06-30,🔵,2,pork
+kinds of meat,2023-06-30,🔵,3,poultry
+kinds of meat,2023-06-30,🔵,4,venison
+synonyms for argument,2023-06-30,🟣,1,row
+synonyms for argument,2023-06-30,🟣,2,quarrel
+synonyms for argument,2023-06-30,🟣,3,spat
+synonyms for argument,2023-06-30,🟣,4,tiff
+muscles informally,2023-06-29,🟡,1,lat
+muscles informally,2023-06-29,🟡,2,pec
+muscles informally,2023-06-29,🟡,3,quad
+muscles informally,2023-06-29,🟡,4,tri
+awards,2023-06-29,🟢,1,cup
+awards,2023-06-29,🟢,2,medal
+awards,2023-06-29,🟢,3,ribbon
+awards,2023-06-29,🟢,4,trophy
+title tv doctors,2023-06-29,🔵,1,grey
+title tv doctors,2023-06-29,🔵,2,house
+title tv doctors,2023-06-29,🔵,3,howser
+title tv doctors,2023-06-29,🔵,4,quinn
+nfl players,2023-06-29,🟣,1,bear
+nfl players,2023-06-29,🟣,2,bill
+nfl players,2023-06-29,🟣,3,brown
+nfl players,2023-06-29,🟣,4,commander
+neckwear,2023-06-28,🟡,1,ascot
+neckwear,2023-06-28,🟡,2,bolo
+neckwear,2023-06-28,🟡,3,scarf
+neckwear,2023-06-28,🟡,4,tie
+ship directions,2023-06-28,🟢,1,bow
+ship directions,2023-06-28,🟢,2,port
+ship directions,2023-06-28,🟢,3,starboard
+ship directions,2023-06-28,🟢,4,stern
+___ triangle,2023-06-28,🟣,1,acute
+___ triangle,2023-06-28,🟣,2,bermuda
+___ triangle,2023-06-28,🟣,3,love
+___ triangle,2023-06-28,🟣,4,right
+detergents,2023-06-28,🔵,1,all
+detergents,2023-06-28,🔵,2,era
+detergents,2023-06-28,🔵,3,gain
+detergents,2023-06-28,🔵,4,tide
+coffee drinks,2023-06-27,🟡,1,americano
+coffee drinks,2023-06-27,🟡,2,cappucino
+coffee drinks,2023-06-27,🟡,3,espresso
+coffee drinks,2023-06-27,🟡,4,latte
+tree nuts,2023-06-27,🟢,1,almond
+tree nuts,2023-06-27,🟢,2,pecan
+tree nuts,2023-06-27,🟢,3,walnut
+tree nuts,2023-06-27,🟢,4,cashew
+shades of green,2023-06-27,🔵,1,emerald
+shades of green,2023-06-27,🔵,2,forest
+shades of green,2023-06-27,🔵,3,kelly
+shades of green,2023-06-27,🔵,4,olive
+mr.____,2023-06-27,🟣,1,bean
+mr.____,2023-06-27,🟣,2,clean
+mr.____,2023-06-27,🟣,3,fox
+mr.____,2023-06-27,🟣,4,peanut
+bird sounds,2023-06-26,🟡,1,caw
+bird sounds,2023-06-26,🟡,2,chirp
+bird sounds,2023-06-26,🟡,3,cluck
+bird sounds,2023-06-26,🟡,4,tweet
+colors,2023-06-26,🟢,1,brown
+colors,2023-06-26,🟢,2,pink
+colors,2023-06-26,🟢,3,turquoise
+colors,2023-06-26,🟢,4,violet
+fishing gear,2023-06-26,🔵,1,lure
+fishing gear,2023-06-26,🔵,2,reel
+fishing gear,2023-06-26,🔵,3,rod
+fishing gear,2023-06-26,🔵,4,tackle
+fictional pirates,2023-06-26,🟣,1,hook
+fictional pirates,2023-06-26,🟣,2,jones
+fictional pirates,2023-06-26,🟣,3,silver
+fictional pirates,2023-06-26,🟣,4,sparrow
+beds,2023-06-25,🟡,1,bunk
+beds,2023-06-25,🟡,2,canopy
+beds,2023-06-25,🟡,3,murphy
+beds,2023-06-25,🟡,4,trundle
+famous brothers,2023-06-25,🟢,1,jonas
+famous brothers,2023-06-25,🟢,2,marx
+famous brothers,2023-06-25,🟢,3,warner
+famous brothers,2023-06-25,🟢,4,wright
+hondas,2023-06-25,🔵,1,accord
+hondas,2023-06-25,🔵,2,civic
+hondas,2023-06-25,🔵,3,passport
+hondas,2023-06-25,🔵,4,pilot
+video game characters,2023-06-25,🟣,1,crash
+video game characters,2023-06-25,🟣,2,link
+video game characters,2023-06-25,🟣,3,mario
+video game characters,2023-06-25,🟣,4,sonic
+airlines,2023-06-24,🟡,1,frontier
+airlines,2023-06-24,🟡,2,spirit
+airlines,2023-06-24,🟡,3,united
+airlines,2023-06-24,🟡,4,virgin
+greek letters,2023-06-24,🟢,1,beat
+greek letters,2023-06-24,🟢,2,chi
+greek letters,2023-06-24,🟢,3,delta
+greek letters,2023-06-24,🟢,4,iota
+silent “g”,2023-06-24,🔵,1,gnat
+silent “g”,2023-06-24,🔵,2,gnaw
+silent “g”,2023-06-24,🔵,3,gnocci
+silent “g”,2023-06-24,🔵,4,gnome
+homophones,2023-06-24,🟣,1,gnu
+homophones,2023-06-24,🟣,2,knew
+homophones,2023-06-24,🟣,3,new
+homophones,2023-06-24,🟣,4,nu
+animal group names,2023-06-23,🟡,1,flock
+animal group names,2023-06-23,🟡,2,pad
+animal group names,2023-06-23,🟡,3,school
+animal group names,2023-06-23,🟡,4,pod
+deadly sins,2023-06-23,🟢,1,envy
+deadly sins,2023-06-23,🟢,2,greed
+deadly sins,2023-06-23,🟢,3,lust
+deadly sins,2023-06-23,🟢,4,pride
+slow animals,2023-06-23,🔵,1,loris
+slow animals,2023-06-23,🔵,2,sloth
+slow animals,2023-06-23,🔵,3,snail
+slow animals,2023-06-23,🔵,4,tortoise
+trig functions,2023-06-23,🟣,1,cot
+trig functions,2023-06-23,🟣,2,sec
+trig functions,2023-06-23,🟣,3,sin
+trig functions,2023-06-23,🟣,4,tan
+spices beginning with “c”,2023-06-22,🟡,1,cardamom
+spices beginning with “c”,2023-06-22,🟡,2,clove
+spices beginning with “c”,2023-06-22,🟡,3,coriander
+spices beginning with “c”,2023-06-22,🟡,4,cumin
+terms of endearment,2023-06-22,🟢,1,boo
+terms of endearment,2023-06-22,🟢,2,honey
+terms of endearment,2023-06-22,🟢,3,sugar
+terms of endearment,2023-06-22,🟢,4,sweetie
+things with wings,2023-06-22,🔵,1,airplane
+things with wings,2023-06-22,🔵,2,angel
+things with wings,2023-06-22,🔵,3,bird
+things with wings,2023-06-22,🔵,4,pegasus
+spice girls,2023-06-22,🟣,1,baby
+spice girls,2023-06-22,🟣,2,ginger
+spice girls,2023-06-22,🟣,3,posh
+spice girls,2023-06-22,🟣,4,scary
+fruit,2023-06-21,🟡,1,date
+fruit,2023-06-21,🟡,2,kiwi
+fruit,2023-06-21,🟡,3,lemon
+fruit,2023-06-21,🟡,4,orange
+countries,2023-06-21,🟢,1,chad
+countries,2023-06-21,🟢,2,georgia
+countries,2023-06-21,🟢,3,jordan
+countries,2023-06-21,🟢,4,togo
+birds,2023-06-21,🔵,1,crane
+birds,2023-06-21,🔵,2,jay
+birds,2023-06-21,🔵,3,swallow
+birds,2023-06-21,🔵,4,turkey
+zodiac symbols,2023-06-21,🟣,1,fish
+zodiac symbols,2023-06-21,🟣,2,goat
+zodiac symbols,2023-06-21,🟣,3,scales
+zodiac symbols,2023-06-21,🟣,4,twins
+sports,2023-06-20,🟡,1,cricket
+sports,2023-06-20,🟡,2,fencing
+sports,2023-06-20,🟡,3,polo
+sports,2023-06-20,🟡,4,squash
+tops,2023-06-20,🟢,1,cami
+tops,2023-06-20,🟢,2,halter
+tops,2023-06-20,🟢,3,tank
+tops,2023-06-20,🟢,4,tee
+vegetables,2023-06-20,🔵,1,beet
+vegetables,2023-06-20,🔵,2,carrot
+vegetables,2023-06-20,🔵,3,corn
+vegetables,2023-06-20,🔵,4,onion
+insects,2023-06-20,🟣,1,ant
+insects,2023-06-20,🟣,2,beetle
+insects,2023-06-20,🟣,3,mantis
+insects,2023-06-20,🟣,4,termite
+board games,2023-06-19,🟡,1,backgammon
+board games,2023-06-19,🟡,2,checkers
+board games,2023-06-19,🟡,3,chess
+board games,2023-06-19,🟡,4,go
+things that are red,2023-06-19,🔵,1,cherry
+things that are red,2023-06-19,🔵,2,fire truck
+things that are red,2023-06-19,🔵,3,ruby
+things that are red,2023-06-19,🔵,4,stop sign
+mattress sizes,2023-06-19,🟢,1,full
+mattress sizes,2023-06-19,🟢,2,king
+mattress sizes,2023-06-19,🟢,3,queen
+mattress sizes,2023-06-19,🟢,4,twin
+things with keys,2023-06-19,🟣,1,cryptography
+things with keys,2023-06-19,🟣,2,florida
+things with keys,2023-06-19,🟣,3,locksmith
+things with keys,2023-06-19,🟣,4,piano
+leg parts,2023-06-18,🟡,1,ankle
+leg parts,2023-06-18,🟡,2,knee
+leg parts,2023-06-18,🟡,3,shin
+leg parts,2023-06-18,🟡,4,thigh
+baby animals,2023-06-18,🟢,1,calf
+baby animals,2023-06-18,🟢,2,cub
+baby animals,2023-06-18,🟢,3,joey
+baby animals,2023-06-18,🟢,4,kid
+slang for toilet,2023-06-18,🔵,1,can
+slang for toilet,2023-06-18,🔵,2,head
+slang for toilet,2023-06-18,🔵,3,john
+slang for toilet,2023-06-18,🔵,4,throne
+___ fish that aren’t fish,2023-06-18,🟣,1,cray
+___ fish that aren’t fish,2023-06-18,🟣,2,jelly
+___ fish that aren’t fish,2023-06-18,🟣,3,silver
+___ fish that aren’t fish,2023-06-18,🟣,4,star
+monopoly squares,2023-06-17,🟡,1,boardwalk
+monopoly squares,2023-06-17,🟡,2,chance
+monopoly squares,2023-06-17,🟡,3,go
+monopoly squares,2023-06-17,🟡,4,jail
+shades of blue,2023-06-17,🟢,1,baby
+shades of blue,2023-06-17,🟢,2,midnight
+shades of blue,2023-06-17,🟢,3,powder
+shades of blue,2023-06-17,🟢,4,royal
+rappers,2023-06-17,🔵,1,common
+rappers,2023-06-17,🔵,2,future
+rappers,2023-06-17,🔵,3,ice cube
+rappers,2023-06-17,🔵,4,q-tip
+members of a septet,2023-06-17,🟣,1,sea
+members of a septet,2023-06-17,🟣,2,sin
+members of a septet,2023-06-17,🟣,3,sister
+members of a septet,2023-06-17,🟣,4,wonder
+streaming services,2023-06-16,🟡,1,hulu
+streaming services,2023-06-16,🟡,2,netflix
+streaming services,2023-06-16,🟡,3,peacock
+streaming services,2023-06-16,🟡,4,prime
+condiments,2023-06-16,🟢,1,ketchup
+condiments,2023-06-16,🟢,2,mayo
+condiments,2023-06-16,🟢,3,relish
+condiments,2023-06-16,🟢,4,tartar
+synonyms for sad,2023-06-16,🔵,1,blue
+synonyms for sad,2023-06-16,🔵,2,down
+synonyms for sad,2023-06-16,🔵,3,glum
+synonyms for sad,2023-06-16,🔵,4,low
+clue characters,2023-06-16,🟣,1,green
+clue characters,2023-06-16,🟣,2,mustard
+clue characters,2023-06-16,🟣,3,plum
+clue characters,2023-06-16,🟣,4,scarlet
+sneaker brands,2023-06-15,🟡,1,adidas
+sneaker brands,2023-06-15,🟡,2,nike
+sneaker brands,2023-06-15,🟡,3,puma
+sneaker brands,2023-06-15,🟡,4,reebok
+musicals beginning with “c”,2023-06-15,🟢,1,cabaret
+musicals beginning with “c”,2023-06-15,🟢,2,carousel
+musicals beginning with “c”,2023-06-15,🟢,3,cats
+musicals beginning with “c”,2023-06-15,🟢,4,chicago
+cleaning verbs,2023-06-15,🔵,1,dust
+cleaning verbs,2023-06-15,🔵,2,mop
+cleaning verbs,2023-06-15,🔵,3,sweep
+cleaning verbs,2023-06-15,🔵,4,vacuum
+___ man superheroes,2023-06-15,🟣,1,bat
+___ man superheroes,2023-06-15,🟣,2,iron
+___ man superheroes,2023-06-15,🟣,3,spider
+___ man superheroes,2023-06-15,🟣,4,super
+facial features,2023-06-14,🟡,1,cheek
+facial features,2023-06-14,🟡,2,eye
+facial features,2023-06-14,🟡,3,mouth
+facial features,2023-06-14,🟡,4,nose
+synonyms for eat,2023-06-14,🟢,1,chow
+synonyms for eat,2023-06-14,🟢,2,gobble
+synonyms for eat,2023-06-14,🟢,3,scarf
+synonyms for eat,2023-06-14,🟢,4,wolf
+"dog breeds, informally",2023-06-14,🔵,1,lab
+"dog breeds, informally",2023-06-14,🔵,2,peke
+"dog breeds, informally",2023-06-14,🔵,3,pit
+"dog breeds, informally",2023-06-14,🔵,4,pom
+members of a trio,2023-06-14,🟣,1,amigo
+members of a trio,2023-06-14,🟣,2,king
+members of a trio,2023-06-14,🟣,3,stooge
+members of a trio,2023-06-14,🟣,4,tenor
+footwear,2023-06-13,🟡,1,boot
+footwear,2023-06-13,🟡,2,loafer
+footwear,2023-06-13,🟡,3,pump
+footwear,2023-06-13,🟡,4,sneaker
+units of length,2023-06-13,🟢,1,foot
+units of length,2023-06-13,🟢,2,league
+units of length,2023-06-13,🟢,3,mile
+units of length,2023-06-13,🟢,4,yard
+magazines,2023-06-13,🔵,1,essence
+magazines,2023-06-13,🔵,2,people
+magazines,2023-06-13,🔵,3,time
+magazines,2023-06-13,🔵,4,us
+letter homophones,2023-06-13,🟣,1,are
+letter homophones,2023-06-13,🟣,2,queue
+letter homophones,2023-06-13,🟣,3,sea
+letter homophones,2023-06-13,🟣,4,why
+wet weather,2023-06-12,🟡,1,hair
+wet weather,2023-06-12,🟡,2,rain
+wet weather,2023-06-12,🟡,3,sleet
+wet weather,2023-06-12,🟡,4,snow
+nba teams,2023-06-12,🟢,1,bucks
+nba teams,2023-06-12,🟢,2,heat
+nba teams,2023-06-12,🟢,3,jazz
+nba teams,2023-06-12,🟢,4,nets
+keyboard keys,2023-06-12,🔵,1,option
+keyboard keys,2023-06-12,🔵,2,return
+keyboard keys,2023-06-12,🔵,3,shift
+keyboard keys,2023-06-12,🔵,4,tab
+palindromes,2023-06-12,🟣,1,kayak
+palindromes,2023-06-12,🟣,2,level
+palindromes,2023-06-12,🟣,3,mom
+palindromes,2023-06-12,🟣,4,race car
